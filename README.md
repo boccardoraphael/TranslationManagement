@@ -2,6 +2,8 @@
 
 This project is a Translation and Review Management System that helps manage translation projects by calculating the estimated delivery time and quality of the translation based on the translators and reviewers involved.
 
+You can check it out here: https://translationmgmt-39edc2d1acae.herokuapp.com/
+
 ## Features
 
 - Add human translators with customizable capacities.
